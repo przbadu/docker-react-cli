@@ -20,13 +20,13 @@ $ docker build . -t docker-react-cli
 For Linux/Mac
 
 ```sh
-$ docker run -v ${PWD}:/app docker-react-cli create-react-app myApp
+$ docker run -v ${PWD}:/app docker-react-cli create-react-app myapp
 ```
 
 For Windows
 
 ```sh
-$ docker run -v %cd%:/app docker-react-cli create-react-app myApp
+$ docker run -v %cd%:/app docker-react-cli create-react-app myapp
 ```
 
 > NOTE: you can also use my docker image `przbadu/docker-react-cli`.
