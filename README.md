@@ -29,4 +29,5 @@ For Windows
 $ docker run -v %cd%:/app docker-react-cli create-react-app myapp
 ```
 
-> NOTE: you can also use my docker image `przbadu/docker-react-cli`.
+> NOTE: you can also use my docker image [przbadu/docker-react-cli](https://hub.docker.com/r/przbadu/docker-react-cli/)
+
